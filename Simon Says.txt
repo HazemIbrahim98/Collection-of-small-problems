@@ -1,0 +1,5 @@
+
+RNG input : 4332
+Player input : 4332
+RNG input : 44432
+Player input : 11111
